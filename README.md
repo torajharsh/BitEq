@@ -79,7 +79,7 @@ I invite anyone that shares the same sentiment and anyone with a background in *
 ---
 
 ## Something to Ponder
-Given the recursive nature of the reconstruction, should we prioritize Top-Down solvers (starting from $N$ and dividing down) or Bottom-Up solvers (starting from an initial random 32-bit or 64-bit seed and searching for a path or chain of equations to $N$)?
+Given the iterative and recursive nature of the reconstruction, should we prioritize Top-Down solvers (starting from $N$ and dividing down) or Bottom-Up solvers (starting from an initial random 32-bit or 64-bit seed and searching for a path or chain of equations to $N$)?
 
 ---
 ***BitEq** Research Project by: **Raj Harsh***
